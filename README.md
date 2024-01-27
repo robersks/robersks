@@ -22,10 +22,10 @@
 
 - [Nombre del Proyecto 1](enlace al proyecto) - Una breve descripción del proyecto.
 - [Nombre del Proyecto 2](enlace al proyecto) - Una breve descripción del proyecto.
--->
+
 
 ### Contacto
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/robersks) y [Twitter ahora  X](https://twitter.com/robersks). ¡No dudes en contactarme para cualquier colaboración o consulta!
-
+-->
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
